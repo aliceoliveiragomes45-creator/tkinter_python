@@ -1,0 +1,201 @@
+
+1,Garrafa Térmica 001,328,51.51
+2,Jogo de Panelas 002,380,2.98
+3,Cadeira Escritório 003,115,22.73
+4,Agenda 2026 004,53,18.63
+5,Adaptador USB 005,457,59.18
+6,Shampoo Neutro 006,303,54.46
+7,Sabonete Líquido 007,16,71.48
+8,Pendrive 64GB 008,120,7.87
+9,Bateria Recarregável 009,14,34.33
+10,Teclado USB 010,367,3.35
+11,Agenda 2026 011,280,18.27
+12,Relógio Digital 012,230,40.92
+13,Caneta Azul 013,415,3.1
+14,Relógio Digital 014,389,16.71
+15,Calculadora Científica 015,358,52.34
+16,Lanterna LED 016,143,44.05
+17,Estojo Simples 017,491,18.41
+18,Chave de Fenda 018,53,47.55
+19,Tripé Ajustável 019,50,64.95
+20,Raquete de Tênis 020,177,1.51
+21,Toalha de Banho 021,414,64.66
+22,Pulseira Esportiva 022,236,56.15
+23,Bola de Futebol 023,499,27.88
+24,Shampoo Neutro 024,41,13.28
+25,Luminária de Mesa 025,425,76.62
+26,Caixa Organizadora 026,454,27.59
+27,Estojo Simples 027,296,8.33
+28,Pendrive 64GB 028,36,8.64
+29,Teclado USB 029,117,67.95
+30,Camiseta Básica 030,41,48.69
+31,Corda de Pular 031,444,64.76
+32,Pasta de Dente 032,143,58.65
+33,Teclado USB 033,428,43.36
+34,Corda de Pular 034,190,77.88
+35,Impressora Multifuncional 035,344,30.9
+36,Teclado USB 036,480,44.61
+37,Teclado USB 037,37,66.52
+38,Camiseta Básica 038,88,49.86
+39,Sabonete Líquido 039,126,69.07
+40,Condicionador 040,195,46.61
+41,Escova de Dentes 041,474,56.66
+42,Agenda 2026 042,286,4.62
+43,Teclado USB 043,167,19.0
+44,Condicionador 044,398,23.86
+45,Garrafa Térmica 045,421,7.3
+46,Mochila Escolar 046,162,19.39
+47,Monitor 24 Polegadas 047,34,8.98
+48,Calça Jeans 048,483,22.96
+49,Monitor 24 Polegadas 049,368,51.22
+50,Câmera Fotográfica 050,336,29.82
+51,Cadeira Escritório 051,453,30.24
+52,Bateria Recarregável 052,235,17.55
+53,Fone Bluetooth 053,72,22.09
+54,Tênis Esportivo 054,288,75.0
+55,Cadeira Escritório 055,383,52.19
+56,Camiseta Básica 056,460,49.12
+57,Calça Jeans 057,186,14.52
+58,Mouse Sem Fio 058,71,58.6
+59,Jaqueta Moletom 059,47,13.91
+60,Garrafa Térmica 060,441,30.98
+61,Adaptador USB 061,322,79.17
+62,Pulseira Esportiva 062,349,51.56
+63,Camiseta Básica 063,33,45.0
+64,Tênis Esportivo 064,306,55.08
+65,Escova de Dentes 065,271,67.59
+66,Impressora Multifuncional 066,284,62.3
+67,Calculadora Científica 067,6,19.09
+68,Pendrive 64GB 068,59,3.54
+69,Pulseira Esportiva 069,275,25.92
+70,Bola de Futebol 070,394,22.15
+71,Impressora Multifuncional 071,58,17.67
+72,Cadeira Escritório 072,81,75.49
+73,Calculadora Científica 073,489,70.23
+74,Bateria Recarregável 074,369,25.86
+75,Carregador Portátil 075,257,52.78
+76,Pulseira Esportiva 076,260,32.25
+77,Óculos de Sol 077,446,73.25
+78,Papel Sulfite 078,431,37.25
+79,Lanterna LED 079,312,21.93
+80,Impressora Multifuncional 080,192,20.48
+81,Jogo de Panelas 081,277,45.35
+82,Monitor 24 Polegadas 082,473,21.76
+83,Caneta Azul 083,1,47.18
+84,Lanterna LED 084,251,71.93
+85,Jaqueta Moletom 085,476,32.55
+86,Tênis Esportivo 086,426,18.33
+87,Copo de Vidro 087,123,79.81
+88,Monitor 24 Polegadas 088,450,41.25
+89,Pasta de Dente 089,41,8.18
+90,Pendrive 64GB 090,249,4.72
+91,Condicionador 091,390,9.66
+92,Calculadora Científica 092,65,50.57
+93,Carregador Portátil 093,244,63.57
+94,Webcam HD 094,85,34.35
+95,Monitor 24 Polegadas 095,447,6.02
+96,Cadeira Escritório 096,494,31.15
+97,Suporte para Notebook 097,277,79.69
+98,Estojo Simples 098,354,42.8
+99,Agenda 2026 099,160,77.72
+100,Martelo Pequeno 100,344,69.0
+101,Pasta de Dente 101,225,1.91
+102,Bola de Futebol 102,232,57.94
+103,Papel Sulfite 103,116,54.86
+104,Jaqueta Moletom 104,11,43.42
+105,Óculos de Sol 105,118,22.08
+106,Escova de Dentes 106,4,51.64
+107,Caneta Azul 107,324,9.81
+108,Pulseira Esportiva 108,35,35.35
+109,Toalha de Banho 109,441,36.84
+110,Papel Sulfite 110,264,76.35
+111,Pulseira Esportiva 111,343,70.19
+112,Copo de Vidro 112,277,21.81
+113,Carregador Portátil 113,479,40.55
+114,Calculadora Científica 114,296,15.11
+115,Fone Bluetooth 115,402,73.1
+116,Copo de Vidro 116,209,69.77
+117,Corda de Pular 117,50,24.58
+118,Toalha de Banho 118,182,51.48
+119,Luminária de Mesa 119,240,49.11
+120,Tesoura Escolar 120,28,13.07
+121,Estojo Simples 121,331,61.24
+122,Calça Jeans 122,207,43.61
+123,Pendrive 64GB 123,410,62.51
+124,Bola de Futebol 124,128,42.9
+125,Cabo HDMI 125,275,1.05
+126,Pendrive 64GB 126,217,26.61
+127,Câmera Fotográfica 127,237,2.54
+128,Boné Preto 128,473,74.4
+129,Calculadora Científica 129,414,70.42
+130,Condicionador 130,282,66.7
+131,Shampoo Neutro 131,334,25.29
+132,Calculadora Científica 132,429,5.58
+133,Teclado USB 133,48,70.36
+134,Garrafa Térmica 134,435,75.81
+135,Boné Preto 135,209,7.77
+136,Chave de Fenda 136,110,39.39
+137,Tesoura Escolar 137,463,6.47
+138,Mouse Sem Fio 138,195,61.09
+139,Caneta Azul 139,200,61.5
+140,Cabo HDMI 140,402,11.14
+141,Frigideira Antiaderente 141,147,38.55
+142,Carregador Portátil 142,491,44.43
+143,Boné Preto 143,402,21.94
+144,Calculadora Científica 144,368,69.92
+145,Agenda 2026 145,98,34.43
+146,Corda de Pular 146,496,17.73
+147,Martelo Pequeno 147,377,43.6
+148,Toalha de Banho 148,383,58.66
+149,Bola de Futebol 149,26,16.89
+150,Chave de Fenda 150,258,25.63
+151,Toalha de Banho 151,272,79.62
+152,Caneta Azul 152,492,52.34
+153,Fone Bluetooth 153,436,35.61
+154,Monitor 24 Polegadas 154,305,41.89
+155,Tripé Ajustável 155,442,10.56
+156,Luminária de Mesa 156,62,18.75
+157,Pasta de Dente 157,292,27.71
+158,Mouse Sem Fio 158,305,47.48
+159,Suporte para Notebook 159,42,19.18
+160,Camiseta Básica 160,299,18.4
+161,Toalha de Banho 161,162,6.61
+162,Luminária de Mesa 162,105,50.86
+163,Chave de Fenda 163,161,19.09
+164,Carregador Portátil 164,203,72.53
+165,Mouse Sem Fio 165,331,68.91
+166,Papel Sulfite 166,162,6.6
+167,Suporte para Notebook 167,480,19.8
+168,Mouse Sem Fio 168,235,53.85
+169,Webcam HD 169,289,17.92
+170,Pendrive 64GB 170,38,11.45
+171,Câmera Fotográfica 171,260,74.91
+172,Cadeira Escritório 172,478,46.11
+173,Pulseira Esportiva 173,36,38.34
+174,Copo de Vidro 174,190,62.98
+175,Webcam HD 175,225,64.79
+176,Frigideira Antiaderente 176,361,16.04
+177,Toalha de Banho 177,414,8.66
+178,Adaptador USB 178,5,35.05
+179,Jaqueta Moletom 179,284,34.46
+180,Corda de Pular 180,340,37.89
+181,Luminária de Mesa 181,450,58.6
+182,Cadeira Escritório 182,60,54.2
+183,Agenda 2026 183,381,78.75
+184,Mochila Escolar 184,140,8.78
+185,Adaptador USB 185,108,32.81
+186,Caderno Universitário 186,105,27.8
+187,Mochila Escolar 187,437,69.07
+188,Corda de Pular 188,251,20.64
+189,Cabo HDMI 189,465,16.03
+190,Adaptador USB 190,48,36.44
+191,Pulseira Esportiva 191,425,34.33
+192,Corda de Pular 192,2,23.01
+193,Cadeira Escritório 193,67,20.73
+194,Tesoura Escolar 194,135,73.94
+195,Agenda 2026 195,227,36.01
+196,Tripé Ajustável 196,219,69.05
+197,Copo de Vidro 197,58,44.48
+198,Relógio Digital 198,453,5.0
+199,Mouse Sem Fio 199,77,79.94
+200,Sabonete Líquido 200,428,67.05

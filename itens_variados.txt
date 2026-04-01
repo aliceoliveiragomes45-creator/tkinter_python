@@ -1,0 +1,200 @@
+1,Mouse Gamer,1410.44,521
+2,Lâmpada LED Pro,523.41,796
+3,Calculadora,3330.98,178
+4,Ração para Gato Plus,455.12,961
+5,Lençol Pro,612.09,631
+6,Monitor 24 Polegadas,696.6,669
+7,Boné Max,3473.68,664
+8,Console Plus,100.06,806
+9,Óculos de Sol Max,3087.98,32
+10,Bola de Futebol Max,2635.17,598
+11,Mesa de Jantar Premium,3532.03,843
+12,Controle de Videogame Plus,2698.51,716
+13,Secador de Cabelo Premium,3186.61,428
+14,Travesseiro Max,4215.73,399
+15,Drone Max,2198.88,542
+16,Tinta Acrílica Plus,446.45,215
+17,Colchonete Max,200.85,398
+18,Ventilador Plus,4834.72,426
+19,Monitor 24 Polegadas,736.85,733
+20,Pasta de Dente,3459.8,984
+21,Coleira Max,2429.18,99
+22,Chave de Fenda,1378.14,186
+23,Drone Premium,2641.96,360
+24,Forno Elétrico Plus,3398.98,815
+25,Mochila,4222.77,903
+26,Ar-Condicionado Pro,4133.39,992
+27,Guarda-Roupa Premium,581.48,710
+28,Cobertor Pro,2977.16,753
+29,Coleira Premium,2795.41,524
+30,Ferro de Passar Max,399.61,169
+31,Perfume Premium,440.3,512
+32,Régua,82.82,375
+33,Óculos de Sol Pro,207.97,181
+34,Lençol Premium,3467.36,151
+35,Cadeira de Madeira Pro,1879.23,833
+36,Mala de Viagem Premium,602.6,481
+37,Ar-Condicionado Pro,1778.77,217
+38,Liquidificador,1930.69,662
+39,Cobertor Plus,4261.18,489
+40,Halter 10kg Max,1587.43,765
+41,Tênis Esportivo Plus,1591.86,955
+42,Fone de Ouvido Pro,643.91,222
+43,Toalha de Banho Pro,1997.03,700
+44,Martelo Plus,3251.34,913
+45,Carteira Max,1702.49,251
+46,Sofá Retrátil Premium,1738.34,307
+47,Tapete Premium,2510.98,304
+48,Secador de Cabelo Plus,369.4,890
+49,Cama Box,2299.99,111
+50,Lápis,4380.27,774
+51,Mesa para Computador Plus,4506.65,268
+52,Brinquedo para Pet Max,1855.32,372
+53,Bateria Portátil Pro,3660.87,214
+54,Sabonete Max,1661.48,834
+55,Escova de Dentes Premium,4312.69,976
+56,Camiseta Premium,2044.71,500
+57,Condicionador,2179.28,598
+58,Boné Premium,4530.2,878
+59,Serra Elétrica,1939.43,65
+60,Microfone Condensador Pro,573.69,837
+61,Webcam Full HD Pro,1359.43,72
+62,Carregador USB-C Max,4783.18,538
+63,Borracha Plus,3721.66,158
+64,Calculadora Max,98.89,282
+65,Aspirador de Pó Max,1003.84,761
+66,Furadeira Max,3141.44,955
+67,Mochila,1258.56,317
+68,Pen Drive 64GB Pro,1713.92,470
+69,Travesseiro Max,111.74,959
+70,Carregador USB-C Premium,4643.06,55
+71,Cadeira de Madeira Premium,4914.36,946
+72,Cama Box Plus,3453.99,936
+73,Smartwatch Plus,215.82,91
+74,Relógio Digital Plus,755.68,979
+75,Óculos de Sol Max,494.13,93
+76,Geladeira,2470.1,601
+77,Fone de Ouvido Premium,3215.84,29
+78,Secador de Cabelo Pro,1151.02,729
+79,Pasta de Dente Premium,2865.15,383
+80,Furadeira Pro,1152.43,339
+81,Sanduicheira Max,3162.05,302
+82,HD Externo 1TB Pro,2631.07,550
+83,Martelo Pro,4393.54,660
+84,Tripé,3745.65,226
+85,Purificador de Água Pro,4558.2,902
+86,Brinquedo para Pet,654.38,769
+87,Camiseta Pro,2262.84,311
+88,Brinquedo para Pet Pro,2416.52,801
+89,Coleira Max,2764.98,552
+90,Creme Hidratante Pro,2314.26,771
+91,Coleira,3726.5,595
+92,Óculos de Sol Max,4735.79,772
+93,Escova de Dentes Plus,3703.45,816
+94,Carregador USB-C Plus,958.85,467
+95,Martelo Plus,1323.31,86
+96,Perfume Premium,4262.9,874
+97,Carteira Premium,4308.36,754
+98,Amplificador Max,2458.46,534
+99,Secador de Cabelo Max,1009.51,247
+100,Agenda Max,4262.55,701
+101,Condicionador,822.47,846
+102,Impressora Multifuncional Pro,3434.98,109
+103,Ar-Condicionado Pro,4328.11,386
+104,Travesseiro Max,4416.81,592
+105,Jaqueta Max,3206.52,188
+106,Lençol Pro,2578.93,569
+107,Liquidificador Premium,4806.1,470
+108,Cama Box,3605.84,834
+109,Geladeira Plus,1861.85,194
+110,Camiseta Pro,1082.65,421
+111,Ração para Gato Plus,1216.74,383
+112,Perfume Plus,4842.45,704
+113,Cobertor Max,3797.63,275
+114,Exaustor,3262.0,444
+115,Lâmpada LED Plus,2944.57,551
+116,Teclado Musical Max,2807.14,916
+117,Esteira Elétrica Premium,4640.96,445
+118,Esmalte Premium,1056.16,191
+119,Monitor 24 Polegadas Max,1520.23,854
+120,Ração para Gato Pro,2921.48,920
+121,Impressora Multifuncional Max,1286.02,774
+122,Teclado Mecânico Pro,973.94,206
+123,Amplificador Max,804.32,739
+124,Cafeteira,814.43,328
+125,Escova de Dentes Pro,3782.81,946
+126,Microfone Condensador Pro,1365.13,390
+127,Ração para Gato Pro,4737.79,735
+128,Exaustor Premium,900.09,870
+129,Ração para Gato Max,3533.54,876
+130,Borracha,3540.2,996
+131,Mesa para Computador Pro,837.68,628
+132,Escova de Dentes Max,529.15,90
+133,Halter 10kg Max,3731.6,638
+134,Jaqueta Max,3331.77,452
+135,Condicionador Premium,4089.72,197
+136,Cadeira de Madeira Pro,3242.6,382
+137,Ar-Condicionado Premium,2872.12,69
+138,Microfone Condensador Max,1002.91,251
+139,Tinta Acrílica Max,2918.97,958
+140,Liquidificador Max,4728.71,617
+141,Controle de Videogame,4609.83,207
+142,Agenda Max,2974.83,906
+143,Coleira Pro,4221.27,442
+144,Câmera Fotográfica,645.11,924
+145,Pincel Plus,1656.82,469
+146,Ferro de Passar Pro,3871.06,958
+147,Lápis,2770.67,712
+148,Console Plus,2492.6,124
+149,Ar-Condicionado Max,516.65,914
+150,Cooktop Premium,134.78,518
+151,Drone Premium,1464.66,233
+152,Tinta Acrílica,603.15,46
+153,Escova de Dentes Pro,1703.77,709
+154,Câmera Fotográfica Pro,2596.8,251
+155,Coleira Max,399.95,327
+156,Bola de Futebol Max,2980.77,921
+157,Tela para Pintura Pro,3712.36,897
+158,Monitor 24 Polegadas Plus,4544.99,242
+159,Fogão Pro,1766.39,566
+160,Guarda-Roupa Pro,4845.36,264
+161,Micro-ondas Pro,3751.16,583
+162,Cadeira de Madeira Premium,4573.68,233
+163,Sanduicheira,4152.1,653
+164,Panela Elétrica Max,3716.11,106
+165,Controle de Videogame Max,428.05,480
+166,Cadeira de Escritório Plus,1478.63,702
+167,Headset Bluetooth Premium,2781.03,1
+168,Cabo HDMI Pro,680.92,441
+169,Mala de Viagem,3507.5,158
+170,Cooktop,624.52,923
+171,Sabonete Plus,3477.96,568
+172,Câmera Fotográfica,1873.04,467
+173,Headset Bluetooth,181.04,398
+174,Notebook Premium,3300.59,742
+175,Purificador de Água,1902.17,316
+176,Camiseta Premium,4033.02,812
+177,Caneta Plus,3432.64,805
+178,Bola de Futebol Plus,427.71,680
+179,Guitarra Premium,2722.08,602
+180,Condicionador Plus,909.59,37
+181,Ventilador Plus,4598.95,552
+182,Livro de História Max,2108.0,762
+183,Tripé Pro,2049.11,20
+184,Mala de Viagem Max,3560.48,610
+185,Teclado Mecânico,1391.49,653
+186,Calculadora Max,3055.21,462
+187,Guarda-Roupa Plus,1283.69,566
+188,HD Externo 1TB Plus,4501.33,582
+189,Caixa de Som Premium,2668.92,940
+190,Aquário,4087.07,360
+191,Pen Drive 64GB Max,4201.93,318
+192,Caneta Premium,262.22,615
+193,Smartwatch Max,1205.07,281
+194,Cooktop,3146.56,716
+195,Mesa para Computador,2212.65,582
+196,Régua Premium,2588.05,689
+197,Borracha,4826.4,15
+198,Caderno Max,3098.73,210
+199,Bateria Portátil Plus,4796.27,925
+200,Exaustor Plus,869.53,675
